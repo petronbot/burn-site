@@ -20,6 +20,26 @@ p {
 p::first-line {
   font-size: 5vw;
 }
+button {
+  all: unset;
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background-color: #f1ece2;
+  color: #000000;
+  font-size: 20px;
+  border-radius: 0px;
+  padding: 0 33px;
+  font-weight: bold;
+  height: 50px;
+  cursor: pointer;
+  line-height: 50px;
+  text-align: center;
+  margin: 0;
+  text-decoration: none;
+}
 img {
   position: fixed;
   left: 50%;
