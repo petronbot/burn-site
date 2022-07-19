@@ -14,7 +14,7 @@ section {
 }
 section.alt {
   padding: 15vh 10vw 10vh;
-  background: rgba(15, 0, 1, 0.6);
+  background: rgba(50, 0, 10, 0.7);
 }
 section.alt p {
   color: lightgray;
